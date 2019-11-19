@@ -1,0 +1,31 @@
+﻿  Mainfile.cpp
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.h(16): error C3646: 'accountType': unknown override specifier
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  BankMgtUtilities.cpp
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.h(16): error C3646: 'accountType': unknown override specifier
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(13): error C3861: 'generateAccountNumber': identifier not found
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(20): error C3861: 'generateAccountNumber': identifier not found
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(29): error C3861: 'createNode': identifier not found
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(58): error C2039: 'accountType': is not a member of 'CustomerInfoType'
+  c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.h(10): note: see declaration of 'CustomerInfoType'
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(62): error C2039: 'accountType': is not a member of 'CustomerInfoType'
+  c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.h(10): note: see declaration of 'CustomerInfoType'
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(34): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(37): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(37): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(40): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+  c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(40): note: consider using '%hhd' in the format string
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(40): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(43): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+  c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(43): note: consider using '%hhd' in the format string
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(43): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(55): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(66): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+  Generating Code...

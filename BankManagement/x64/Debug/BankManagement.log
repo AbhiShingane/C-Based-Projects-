@@ -1,0 +1,2 @@
+﻿  BankMgtUtilities.cpp
+c:\users\abhil\source\repos\bankmanagement\bankmanagement\bankmgtutilities.cpp(141): error C2065: 'g_pheadNode': undeclared identifier
